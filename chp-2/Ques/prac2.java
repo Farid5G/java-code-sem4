@@ -1,0 +1,2 @@
+package Ques;
+// Create a class called BankAccount with fields for accountNumber and balance. Write both a default constructor that sets the balance to 0 and the account number to "000000", and a parameterized constructor that accepts values for both fields.
